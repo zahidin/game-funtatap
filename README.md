@@ -12,4 +12,4 @@ $ npm start
 $ react-native run-android
 ```
 ## Screenshot
-![Intro Screen](https://i.ibb.co/fXMnrf3/photo6136356639679293602.jpg)
+![Intro Screen](https://ibb.co/8dY1008][img]https://i.ibb.co/8dY1008/photo6136356639679293603.jpg)
